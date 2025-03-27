@@ -23,7 +23,7 @@ init();
 
 //Haal producten van JSON-file
 async function leesProducten() {
-    const response = await fetch("https://raw.githubusercontent.com/SofiiaBotteldoorn/BestellingJS/refs/heads/main/producten.json");
+    const response = await fetch("https://raw.githubusercontent.com/SofiiaBotteldoorn/Kcal/refs/heads/main/producten.json");
     if (response.ok) {
         console.log(response);
         return await response.json();
