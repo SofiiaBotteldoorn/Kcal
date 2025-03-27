@@ -9,4 +9,7 @@ Finctionaliteit:
 - Producten sorteren per kolom (oplopend/aflopend)  
 - Pagina's bladeren met paginatie  
 - Producten zoeken op naam (live filter)  
-- Gemiddelde kcal tonen en producten erboven weergeven  
+- Gemiddelde kcal tonen en producten erboven weergeven
+
+Live:
+  https://sofiiabotteldoorn.github.io/Kcal/#
