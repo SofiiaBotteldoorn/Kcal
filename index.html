@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Calorieën</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="icon" href="javascript.ico" type="image/x-icon">
+
+    <script src="calorieën.js" defer></script>
+</head>
+
+<body>
+    <main class="container">
+        <div class="kolomen">
+            <div class="kolom table">
+                <div id="nietGevonden" class="fout" hidden>Niet gevonden.</div>
+                <table class="content-table">
+                    <thead>
+                        <tr>
+                            <th><a href="#">Foto</a></th>
+                            <th><a href="#" data-sort="naam">Naam</a></th>
+                            <th><a href="#" data-sort="kcal">Kcal</a></th>
+                            <th><a href="#" data-sort="koolhydraten">Koolhydraten</a></th>
+                            <th><a href="#" data-sort="vet">Vet</a></th>
+                            <th><a href="#" data-sort="eiwitten">Eiwitten</a></th>
+                            <th><a href="#" data-sort="vezels">Vezels</a></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="7">
+                                <span id="paginatie"></span>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <div class="kolom recht">
+                <input id="zoeken" type="text" placeholder="Product naam">
+                <button id="gemiddelde">Producten boven gemiddelde kcal</button>
+                <span id="resultaat"></span>
+                <ul id="bovenGemiddeldeLijst">
+                </ul>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

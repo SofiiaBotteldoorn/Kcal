@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "naam": "Andijvie",
+        "kcal": 13,
+        "koolhydraten": 1.4,
+        "vet": 0.3,
+        "eiwitten": 1.3,
+        "vezels": 1.6,
+        "img": "andijvie.jpg"
+    },
+    {
+        "id": 2,
+        "naam": "Artisjok",
+        "kcal": 47,
+        "koolhydraten": 10.5,
+        "vet": 0.2,
+        "eiwitten": 3.3,
+        "vezels": 5.4,
+        "img": "artisjok.jpg"
+    },
+    {
+        "id": 3,
+        "naam": "Asperge",
+        "kcal": 20,
+        "koolhydraten": 3.9,
+        "vet": 0.1,
+        "eiwitten": 2.2,
+        "vezels": 2.1,
+        "img": "asperge.jpg"
+    },
+    {
+        "id": 4,
+        "naam": "Aubergine",
+        "kcal": 24,
+        "koolhydraten": 5.7,
+        "vet": 0.2,
+        "eiwitten": 1.0,
+        "vezels": 3.0,
+        "img": "aubergine.jpg"
+    },
+    {
+        "id": 5,
+        "naam": "Bleekselderij",
+        "kcal": 14,
+        "koolhydraten": 3.0,
+        "vet": 0.2,
+        "eiwitten": 0.7,
+        "vezels": 1.6,
+        "img": "bleekselderij.jpg"
+    },
+    {
+        "id": 6,
+        "naam": "Bloemkool",
+        "kcal": 25,
+        "koolhydraten": 5.0,
+        "vet": 0.3,
+        "eiwitten": 1.9,
+        "vezels": 2.0,
+        "img": "bloemkool.jpg"
+    },
+    {
+        "id": 7,
+        "naam": "Boerenkool",
+        "kcal": 49,
+        "koolhydraten": 8.8,
+        "vet": 0.9,
+        "eiwitten": 4.3,
+        "vezels": 4.1,
+        "img": "boerenkool.jpg"
+    },
+    {
+        "id": 8,
+        "naam": "Broccoli",
+        "kcal": 34,
+        "koolhydraten": 6.6,
+        "vet": 0.4,
+        "eiwitten": 2.8,
+        "vezels": 2.6,
+        "img": "broccoli.jpg"
+    },
+    {
+        "id": 9,
+        "naam": "Chinese kool",
+        "kcal": 12,
+        "koolhydraten": 1.5,
+        "vet": 0.2,
+        "eiwitten": 1.5,
+        "vezels": 1.2,
+        "img": "chinese.jpg"
+    },
+    {
+        "id": 10,
+        "naam": "Courgette",
+        "kcal": 17,
+        "koolhydraten": 3.1,
+        "vet": 0.3,
+        "eiwitten": 1.2,
+        "vezels": 1.0,
+        "img": "courgette.jpg"
+    },
+    {
+        "id": 11,
+        "naam": "Komkommer",
+        "kcal": 12,
+        "koolhydraten": 1.9,
+        "vet": 0.2,
+        "eiwitten": 0.6,
+        "vezels": 0.7,
+        "img": "komkommer.jpg"
+    },
+    {
+        "id": 12,
+        "naam": "Paprika",
+        "kcal": 26,
+        "koolhydraten": 4.7,
+        "vet": 0.3,
+        "eiwitten": 1.0,
+        "vezels": 1.6,
+        "img": "paprika.jpg"
+    },
+    {
+        "id": 13,
+        "naam": "Pastinaak",
+        "kcal": 75,
+        "koolhydraten": 17.9,
+        "vet": 0.3,
+        "eiwitten": 1.2,
+        "vezels": 4.9,
+        "img": "pastinaak.jpg"
+    },
+    {
+        "id": 14,
+        "naam": "Pompoen",
+        "kcal": 26,
+        "koolhydraten": 6.5,
+        "vet": 0.1,
+        "eiwitten": 1.0,
+        "vezels": 0.5,
+        "img": "pompoen.jpg"
+    },
+    {
+        "id": 15,
+        "naam": "Prei",
+        "kcal": 31,
+        "koolhydraten": 7.0,
+        "Vet": 0.3,
+        "eiwitten": 1.5,
+        "vezels": 1.8,
+        "img": "prei.jpg"
+    },
+    {
+        "id": 16,
+        "naam": "Raap",
+        "kcal": 28,
+        "koolhydraten": 6.4,
+        "vet": 0.1,
+        "eiwitten": 0.9,
+        "vezels": 1.8,
+        "img": "raap.jpg"
+    },
+    {
+        "id": 17,
+        "naam": "Rode biet",
+        "kcal": 43,
+        "koolhydraten": 9.6,
+        "vet": 0.2,
+        "eiwitten": 1.6,
+        "vezels": 2.8,
+        "img": "biet.jpg"
+    },
+    {
+        "id": 18,
+        "naam": "Sla",
+        "kcal": 14,
+        "koolhydraten": 2.9,
+        "vet": 0.2,
+        "eiwitten": 1.4,
+        "vezels": 1.1,
+        "img": "sla.jpg"
+    },
+    {
+        "id": 19,
+        "naam": "Spinazie",
+        "kcal": 23,
+        "koolhydraten": 3.6,
+        "vet": 0.4,
+        "eiwitten": 2.9,
+        "vezels": 2.2,
+        "img": "spinazie.jpg"
+    },
+    {
+        "id": 20,
+        "naam": "Wortel",
+        "kcal": 41,
+        "koolhydraten": 9.6,
+        "vet": 0.2,
+        "eiwitten": 0.9,
+        "vezels": 2.8,
+        "img": "wortel.jpg"
+    }
+]
